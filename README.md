@@ -1,7 +1,7 @@
 ## Hi there, I'm Xen0r 👋
 
 ### I'm a student in Cybersecurity !
-I love programming and Linux administration :blush:
+I love programming, Linux administration and R&D in Cybersecurity :blush:
 
 - I’m a R&D apprentice in Cybersecurity in intership !
 - I’m the [Vice President of the Linux Lab](https://github.com/LinuxLab-ESGI) at ESGI (aka the best lab)
@@ -27,8 +27,8 @@ I love programming and Linux administration :blush:
 
 ### 📕 My Latest Articles
 
+- [Gaming on Linux Systems](https://github.com/LinuxLab-ESGI/Gaming-on-Linux-systems)
 - [Windows Subsystem for Linux (known as WSL)](https://github.com/LinuxLab-ESGI/Windows-Subsystem-for-Linux-WSL)
 - [Random Number Generation on Linux systems](https://github.com/LinuxLab-ESGI/Random-Number-Generation-on-Linux-Systems)
-- [A Crontab Memento](https://github.com/LinuxLab-ESGI/Crontab-Memento)
 
 ➡️ All the articles and presentations of the Linux Lab [here](https://linuxlab-esgi.github.io)
