@@ -1,9 +1,8 @@
 ## Hi there, I'm Xen0r 👋
 
-### I'm a student in Cybersecurity !
-I love R&D in Cybersecurity, programming and playing with Linux distributions :blush:
+### I'm a Cybersecurity Engineer.
+I love R&D in Cybersecurity, Rust/Python programming and playing with Linux distributions :blush:
 
-- I’m a R&D apprentice in Cybersecurity in intership !
 - I’m the [Vice President of the Linux Lab](https://github.com/LinuxLab-ESGI) at ESGI (aka the best lab)
 - I'm currently improving my skills in Rust development
 
@@ -12,7 +11,7 @@ I love R&D in Cybersecurity, programming and playing with Linux distributions :b
 ### Languages :
 
 <img align="left" alt="Rust" width="26px" src="https://user-images.githubusercontent.com/44984461/187383950-0cce5c89-0a00-49f4-9147-ee3f4a6eeff4.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
