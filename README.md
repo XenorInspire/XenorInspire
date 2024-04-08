@@ -1,14 +1,16 @@
 ## Hi there, I'm Xen0r 👋
 
-### I'm a Cybersecurity Engineer.
+### About me:
 I love R&D in Cybersecurity, Rust/Python programming and playing with Linux distributions :blush:
 
-- I’m the [Vice President of the Linux Lab](https://github.com/LinuxLab-ESGI) at ESGI (aka the best lab)
-- I'm currently improving my skills in Rust development
+- I'm currently improving my skills in Rust development.
+- I'm currently learning about DevSecOps and IaC like Terraform, Ansible, etc.
+
+:point_right: Check my last project: [WorgenX](https://github.com/XenorInspire/WorgenX)
 
 ---
 
-### Languages :
+### Languages:
 
 <img align="left" alt="Rust" width="26px" src="https://user-images.githubusercontent.com/44984461/187383950-0cce5c89-0a00-49f4-9147-ee3f4a6eeff4.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -24,10 +26,6 @@ I love R&D in Cybersecurity, Rust/Python programming and playing with Linux dist
 
 ---
 
-### 📕 My Latest Articles
+### My Stats :
 
-- [Gaming on Linux Systems](https://github.com/LinuxLab-ESGI/Gaming-on-Linux-systems)
-- [Windows Subsystem for Linux (known as WSL)](https://github.com/LinuxLab-ESGI/Windows-Subsystem-for-Linux-WSL)
-- [Random Number Generation on Linux systems](https://github.com/LinuxLab-ESGI/Random-Number-Generation-on-Linux-Systems)
-
-➡️ All the articles and presentations of the Linux Lab [here](https://linuxlab-esgi.github.io)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=XenorInspire&count_private=true&theme=tokyonight&showicons=true)]()
