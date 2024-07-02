@@ -1,12 +1,12 @@
 ## Hi there, I'm Xen0r 👋
 
 ### About me:
-I love R&D in Cybersecurity, Rust/Python programming and playing with Linux distributions :blush:
+I love R&D in Cybersecurity, Rust programming and playing with Linux distributions :blush:
 
-- I'm currently improving my skills in Rust development.
-- I'm currently learning about DevSecOps and IaC like Terraform, Ansible, etc.
+- I'm seriously improving my skills in Rust development.
+- I'm also learning about the DevSecOps framework and CI/CD pipelines.
 
-:point_right: Check my last project: [WorgenX](https://github.com/XenorInspire/WorgenX)
+:point_right: Check my favorite project: [WorgenX](https://github.com/XenorInspire/WorgenX)
 
 ---
 
