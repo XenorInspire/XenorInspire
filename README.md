@@ -6,7 +6,7 @@ I love R&D in Cybersecurity, Rust programming and playing with Linux distributio
 - I'm seriously improving my skills in Rust development.
 - I'm also learning about the DevSecOps framework and CI/CD pipelines.
 
-:point_right: Check my favorite project: [WorgenX](https://github.com/XenorInspire/WorgenX)
+:point_right: Check my last project: [DeepFinder](https://github.com/XenorInspire/DeepFinder)
 
 ---
 
